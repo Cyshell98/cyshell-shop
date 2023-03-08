@@ -54,14 +54,11 @@
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "cyshell小铺",
-		"navigationBarBackgroundColor": "#c00000",
-		"backgroundColor": "#ffffff",
-		"app-plus": {
-			"background": "#efeff4"
-		}
+		"navigationBarBackgroundColor": "#C00000",
+		"backgroundColor": "#FFFFFF"
 	},
 	"tabBar": {
-		"selectedColor": "#c00000",
+		"selectedColor": "#C00000",
 		"list": [{
 				"pagePath": "pages/home/home",
 				"text": "首页",
